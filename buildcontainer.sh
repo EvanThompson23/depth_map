@@ -1,0 +1,1 @@
+docker build -t ros2:depth_map_test . 
